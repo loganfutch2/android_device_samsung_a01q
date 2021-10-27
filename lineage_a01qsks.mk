@@ -37,4 +37,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="samsung-user 11 RQ3A.210905 :user release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "samsung/a01q/a01q:11/RQ3A.210905:user/release-keys"
+BUILD_FINGERPRINT := "samsung/a01q/a01q:11/RQ3A.210905001.A1/7474174:user/release-keys"
