@@ -6,8 +6,9 @@
 
 # Inherit from common msm8937-common
 include device/samsung/msm8937-common/BoardConfigCommon.mk
+include device/samsung/a01q-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/samsung/a01qsks
+DEVICE_PATH := device/samsung/a01q
 
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := a01q
