@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_olives.mk
+    $(LOCAL_DIR)/lineage_a01q.mk
 
 COMMON_LUNCH_CHOICES := \
     lineage_a01q-user \
