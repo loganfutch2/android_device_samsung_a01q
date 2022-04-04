@@ -6,6 +6,7 @@
 
 # Inherit from sdm439-common
 $(call inherit-product, device/samsung/msm8937-common/sdm439.mk)
+$(call inherit-product, device/samsung/a01q-common/sdm439.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
