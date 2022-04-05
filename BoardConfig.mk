@@ -4,8 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from common msm8937-common
-include device/samsung/msm8937-common/BoardConfigCommon.mk
+# Inherit from common a01q-common
 include device/samsung/a01q-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/samsung/a01q
@@ -24,7 +23,7 @@ TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_olives
 TARGET_RECOVERY_DEVICE_MODULES := libinit_olives
 
 # Kernel
-TARGET_KERNEL_CONFIG := a01q-perf_defconfig
+TARGET_KERNEL_CONFIG := a01q_usa_vzw_defconfig
 
 # Partitions
 BOARD_CACHEIMAGE_PARTITION_SIZE := 402653184
