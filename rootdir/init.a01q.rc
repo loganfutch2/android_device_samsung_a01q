@@ -1,4 +1,4 @@
-# Camera - from Xiaomi/olive/olive:10/QKQ1.191014.001/V12.0.2.0.QCNMIXM:user/release-keys
+# Camera - from samsung/a01q/a01q:11/RQ3A.210905001.A1/7474174:user/release-keys
 on boot
     #add by yufei for dual calibration SR-QL2115-01000000567
     chmod 0775 /data/vendor/camera
