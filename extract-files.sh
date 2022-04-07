@@ -15,7 +15,7 @@ fi
 set -e
 
 export DEVICE=a01q
-export DEVICE_COMMON=msm8937-common
+export DEVICE_COMMON=a01q-common
 export VENDOR=samsung
 
 "./../../${VENDOR}/${DEVICE_COMMON}/extract-files.sh" "$@"
