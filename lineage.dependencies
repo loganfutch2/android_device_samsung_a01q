@@ -1,6 +1,6 @@
 [
   {
-    "repository": "loganfutch2/439_com",
-    "target_path": "device/samsung/sdm439-common"
+    "repository": "loganfutch2/android_device_samsung_a01q-common",
+    "target_path": "device/samsung/a01q-common"
   }
 ]
